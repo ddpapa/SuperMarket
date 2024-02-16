@@ -1,0 +1,72 @@
+{
+  "id": "4436003",
+  "name": "今日优选",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "仿朴朴UI打造的商超类app",
+  "glyphs": [
+    {
+      "icon_id": "3435124",
+      "name": "优选",
+      "font_class": "mall",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "33847285",
+      "name": "首页",
+      "font_class": "home",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    },
+    {
+      "icon_id": "9854614",
+      "name": "我的",
+      "font_class": "mine",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "19684784",
+      "name": "钱袋",
+      "font_class": "home-copy",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "19684785",
+      "name": "灯笼",
+      "font_class": "category-copy",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "19684792",
+      "name": "大鼓",
+      "font_class": "cart-copy",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "19684797",
+      "name": "舞狮",
+      "font_class": "mine-copy",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "145704",
+      "name": "分类",
+      "font_class": "category",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "21242888",
+      "name": "购物车",
+      "font_class": "cart",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    }
+  ]
+}
