@@ -11,7 +11,10 @@
 		{
 			"path": "pages/tabbar/home/index",
 			"style": {
-				"navigationStyle": "custom"
+				"navigationStyle": "custom",
+				"app-plus": {
+					"bounce": "none"
+				}
 			}
 		},
 		{
@@ -52,7 +55,7 @@
 		"backgroundColor": "#ffffff",
 		"midButton": {
 			"height": "50",
-			"iconPath": "static/image/tabbar/0/mall.png",
+			"iconPath": "static/image/tabbar/1/mall.png",
 			"iconWidth": "40"
 		},
 		"list": [{

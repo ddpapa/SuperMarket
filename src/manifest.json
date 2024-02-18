@@ -17,7 +17,10 @@
             "delay" : 0
         },
         /* 模块配置 */
-        "modules" : {},
+        "modules" : {
+            "Geolocation" : {},
+            "Maps" : {}
+        },
         /* 应用发布信息 */
         "distribute" : {
             /* android打包配置 */
@@ -43,7 +46,20 @@
             /* ios打包配置 */
             "ios" : {},
             /* SDK配置 */
-            "sdkConfigs" : {}
+            "sdkConfigs" : {
+                "geolocation" : {
+                    "amap" : {
+                        "name" : "amap_17371017910CcBXlvrRF",
+                        "__platform__" : [ "android" ],
+                        "appkey_ios" : "",
+                        "appkey_android" : "ab1f11b2bb213058f2e088151d8fdea9"
+                    },
+                    "system" : {
+                        "__platform__" : [ "android" ]
+                    }
+                },
+                "maps" : {}
+            }
         },
         "compatible" : {
             //可选，JSON对象，uni-app兼容模式
